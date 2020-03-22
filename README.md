@@ -1,5 +1,5 @@
 # test-swipe
-Swiper.js performance friendly alternatives for Vue research
+Swiper.js performance friendly alternatives for Vue
 
 ## Swiping libs included
 - [vue-awesome-swiper](https://github.surmon.me/vue-awesome-swiper/ "Full Swiper.js alternative")
